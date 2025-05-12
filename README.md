@@ -1,1 +1,5 @@
-![Knowledge Graph](https://github.com/Shruti31072001/-Knowledge-Graph-Project/raw/main/knowledge_graph.png)
+# Knowledge Graph Project
+
+This repository contains a knowledge graph.
+
+![Knowledge Graph](knowledge%20graph.png)
